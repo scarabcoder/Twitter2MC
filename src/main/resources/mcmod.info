@@ -1,0 +1,16 @@
+[
+{
+  "modid": "twitter",
+  "name": "Twitter2MC",
+  "description": "Use Twitter in Minecraft!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ScarabCoder"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
